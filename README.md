@@ -1,21 +1,13 @@
 # Car-Rental-System
-Car Rental Booking System 🚗
-
 A web-based Car Rental Booking System developed using Python Flask, HTML, SQLite, and basic frontend technologies.
 The project allows users to register, log in, browse cars, and book vehicles online, while the admin can manage bookings and users.
 
 <img width="347" height="617" alt="image" src="https://github.com/user-attachments/assets/9fb5a7bf-d480-44a4-afdf-cb1a55408c6b" />
 
 
-Technologies Used -
-Technology	Purpose
-Python	Backend Programming
-Flask	Web Framework
-HTML/CSS	Frontend Design
-SQLite	Database
+<img width="301" height="246" alt="image" src="https://github.com/user-attachments/assets/50975cbe-7aba-49d9-b823-6660dce1c77c" />
 
 
-📂 Project Structure
 project/
 │
 ├── templates/
