@@ -9,3 +9,10 @@ The project allows users to register, log in, browse cars, and book vehicles onl
 
 
 <img width="1024" height="1536" alt="ChatGPT Image May 27, 2026, 07_21_16 PM" src="https://github.com/user-attachments/assets/e3825451-1856-4128-87cb-14c456f85126" />
+
+Installation Steps -                                                                                                                                                  
+1️⃣ Clone the Repository - git clone <repository-link>                                                                                                                
+2️⃣ Open Project Folder - cd project-folder                                                                                                                           
+3️⃣ Install Required Packages - pip install flask                                                                                                                     
+4️⃣ Run the Application - python app.py                                                                                                                               
+5️⃣ Open in Browser - http://127.0.0.1:5000                                                                                                                           
