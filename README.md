@@ -7,6 +7,7 @@ The project allows users to register, log in, browse cars, and book vehicles onl
 <img width="301" height="246" alt="image" src="https://github.com/user-attachments/assets/50975cbe-7aba-49d9-b823-6660dce1c77c" />                                 
 
 <img width="235" height="608" alt="image" src="https://github.com/user-attachments/assets/743ecab1-72c7-4ff4-91d0-e21a1f9a6c94" />                                  
+
 **Installation Steps -**                                                                                                                                                  
 1️⃣ Clone the Repository - git clone <repository-link>                                                                                                                
 2️⃣ Open Project Folder - cd project-folder                                                                                                                           
