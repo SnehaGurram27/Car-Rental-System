@@ -4,22 +4,8 @@ Car Rental Booking System 🚗
 A web-based Car Rental Booking System developed using Python Flask, HTML, SQLite, and basic frontend technologies.
 The project allows users to register, log in, browse cars, and book vehicles online, while the admin can manage bookings and users.
 
-Features -
-User Module -
-User Registration
-User Login & Logout
-Forgot Password
-View Available Cars
-Book Cars Online
-View Booking Details
-Contact Us Page
+<img width="347" height="617" alt="image" src="https://github.com/user-attachments/assets/9fb5a7bf-d480-44a4-afdf-cb1a55408c6b" />
 
-Admin Module -
-Admin Registration
-Admin Login
-View All Bookings
-Manage Booking Details
-Admin Forgot Password
 
 Technologies Used -
 Technology	Purpose
