@@ -8,33 +8,4 @@ The project allows users to register, log in, browse cars, and book vehicles onl
 <img width="301" height="246" alt="image" src="https://github.com/user-attachments/assets/50975cbe-7aba-49d9-b823-6660dce1c77c" />
 
 
-project/
-│
-├── templates/
-│   ├── homepage.html
-│   ├── login.html
-│   ├── signup.html
-│   ├── car.html
-│   ├── bookcar.html
-│   ├── booking_details.html
-│   ├── adminlogin.html
-│   ├── adminregister.html
-│   ├── admin_bookings.html
-│   ├── forgot_password.html
-│   └── contactus.html
-│
-├── app.py
-├── login.py
-├── signup.py
-├── homepage.py
-├── booking_details.py
-├── adminlogin.py
-├── adminregister.py
-├── admin_bookings.py
-├── db_setup.py
-│
-├── users.db
-├── bookings.db
-├── admin.db
-│
-└── README.md
+<img width="1024" height="1536" alt="ChatGPT Image May 27, 2026, 07_21_16 PM" src="https://github.com/user-attachments/assets/e3825451-1856-4128-87cb-14c456f85126" />
